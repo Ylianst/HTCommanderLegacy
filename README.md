@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is the older Windows-only version of HTCommander, it's not in development anymore. The new version is at [HTCommander](https://github.com/Ylianst/HTCommander)
+
 # Handi-Talky Commander
 
 This is a Amateur Radio (HAM Radio) tool for the UV-Pro, UV-50Pro, GA-5WB, VR-N75, VR-N76, VR-N7500, VR-N7600 radios that works on Windows x64 with Bluetooth support. It allows for easy control over the radio with range of feature including channel programming, speech-to-text, text-to-speech, WinLink, APRS, terminal, torrent file transfer, BBS and more.
